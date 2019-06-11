@@ -1,0 +1,2 @@
+# Hashing-Program-Python
+build a program to experiment with hashes and how to implement hashes using python. Test the differences between the algorithms, for example SHA256 and MD5. Find some way to hash and then store the hashes for reference later. This will be needed for the salt project latter. Also find a way to implement the hash right into a data base, for this it will need to be recorded most likely. Think about the program acting as a plugin to the data base.
